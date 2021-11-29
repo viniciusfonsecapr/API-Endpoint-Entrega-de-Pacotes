@@ -1,18 +1,4 @@
-#  Ativade de teste pratico para um Empresa BLD Logistica- Teste para conhecimentos em Back-end 
-
-Criar uma API com Endpoint usando Node.js +Express e Typescript. 
-API com Endpoint que faz calculo de preço e prazo de entrega de pacotes. 
-O Endpoint recebe o CEP e o peso dos pacotes em gramas.
-
-Create an API with Endpoint using Node.js +Express and Typescript.
-API with Endpoint that calculates the price and delivery time of packages. The Endpoint receives the zip code and weight of packages in grams.
-
-<hr>
-
-# Api com Endpoint 
-
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
+# Api com Endpoint - Ativade de teste pratico para um Empresa BLD Logistica- Teste para conhecimentos em Back-end 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
@@ -21,7 +7,12 @@ API with Endpoint that calculates the price and delivery time of packages. The E
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+Criar uma API com Endpoint usando Node.js +Express e Typescript. 
+API com Endpoint que faz calculo de preço e prazo de entrega de pacotes. 
+O Endpoint recebe o CEP e o peso dos pacotes em gramas.
+
+Create an API with Endpoint using Node.js +Express and Typescript.
+API with Endpoint that calculates the price and delivery time of packages. The Endpoint receives the zip code and weight of packages in grams..
 
 ### Ajustes e melhorias
 
