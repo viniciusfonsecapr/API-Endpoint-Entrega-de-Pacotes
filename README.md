@@ -1,4 +1,4 @@
-# Api com Endpoint - Ativade de teste pratico para um Empresa BLD Logistica- Teste para conhecimentos em Back-end 
+# Api com Endpoint - Ativade de teste pratico para a Empresa BLD Logistica- Teste para conhecimentos em Back-end 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
 ✅ Criar uma API com Endpoint usando Node.js +Express e Typescript. 
