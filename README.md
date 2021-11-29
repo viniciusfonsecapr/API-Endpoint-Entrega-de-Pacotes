@@ -1,4 +1,4 @@
-# Ativade de teste pratico para um Empresa BLD Logistica- Teste para testar conhecimentos em Back-end 
+# Ativade de teste pratico para um Empresa BLD Logistica- Teste para conhecimentos em Back-end 
 
 
 Criar uma API com Endpoint usando Node.js +Express e Typescript. 
