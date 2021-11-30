@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+}
+body {
+   background-color: black;
+
+}
+
+.container {
+    border: 1px solid black;
+    height: 500px;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: white;
+}
+h1 {
+    background: linear-gradient(to right, #3399ff 0%, #ffffff 100%);
+    font-size: 15px;
+    height: 50px;
+    width: 350px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 5px 5px 0 0 ;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    
+}
+
+input {
+    margin: 0 auto;
+    display: block;
+    width: 330px;
+    height: 50px;
+    border-color: black;
+    border: 1px solid;
+    border-radius: 5px;
+    padding-left: 15px;
+    letter-spacing: 1px;
+    
+}
+
+#search-cep {
+    display: block;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    
+}
+
+#peso-number {
+    text-decoration: none;
+
+}
+
+button {
+    background-color: rgb(194, 194, 194);
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 200px;
+    height: 50px;   
+    border-radius: 10px;
+    letter-spacing: 1px;
+    border: none;
+  
+}
+button:hover{
+    cursor: pointer;
+    width: 220px;
+    height: 55px;
+}
+button:active {
+    background-color: #3399ff;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.result-frete {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    text-decoration:underline;
+    letter-spacing: 1px;
+}
