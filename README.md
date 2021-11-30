@@ -1,5 +1,6 @@
 # Api com Endpoint - Ativade de teste pratico para a Empresa BLD Logistica- Teste para conhecimentos em Back-end 
-<img src="exemplo-image.png" alt="exemplo imagem">
+
+![testebldlogs](https://user-images.githubusercontent.com/87347314/143975069-b86deed3-be2e-4630-a05c-ceecf4435622.png)
 
 ✅ Criar uma API com Endpoint usando Node.js +Express e Typescript. 
 ✅ API com Endpoint que faz calculo de preço e prazo de entrega de pacotes. 
